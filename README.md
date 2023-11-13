@@ -6,10 +6,10 @@
 - **If all of the bricks are broken, the game ends with a winning screen**
 
 **How the game looks**
-![image](https://github.com/robertbarbu22/Brick-Breaker-Game-with-OpenGL/assets/95352665/fbd049bb-5962-44b6-bb0a-fc504710c14b)
+![game](https://github.com/robertbarbu22/Bricks-Breaker-Game-With-OpenGL/assets/95352665/73f5e50c-4808-460e-94f6-c9e4fd1b9b8e)
 
 **Game lost screen**
-![image](https://github.com/robertbarbu22/Brick-Breaker-Game-with-OpenGL/assets/95352665/89451ff6-e27a-40ea-acd0-113de193840d)
+![gamelost](https://github.com/robertbarbu22/Bricks-Breaker-Game-With-OpenGL/assets/95352665/00c59ae5-93d2-4e4f-b906-60ba6c242493)
 
 **Game won screen**
-![image](https://github.com/robertbarbu22/Brick-Breaker-Game-with-OpenGL/assets/95352665/099359f4-84fe-45bf-8e48-2829ccbf29f9)
+![gamewon](https://github.com/robertbarbu22/Bricks-Breaker-Game-With-OpenGL/assets/95352665/d2c9eb8c-5bbe-4ba6-acc3-e8073cb6e770)
